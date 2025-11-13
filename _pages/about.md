@@ -12,7 +12,7 @@ I am a theoretical physicist and computational materials scientist, currently a 
 
 My current research has two avenues:
 
-1. **Wang–Landau sampling and alloy thermodynamics**  
+1. **Wang-Landau sampling and alloy thermodynamics**  
    I develop scalable and parallelisable variants of the Wang-Landau algorithm for calculating densities of states in alloy systems. This includes analysing the efficiency of different parallelisation strategies, improving load balancing across energy windows, and applying flat-histogram sampling to high-entropy alloy thermodynamics.
 
 2. **Machine learning for statistical physics**  
