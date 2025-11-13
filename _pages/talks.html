@@ -1,16 +1,27 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<p>
+I have experience of presenting contributed talks at a range of conferences, both in the UK and internationally. A complete list is provided below.
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
+<h2>Contributed Talks</h2>
+Below is a list of `contributed' talks at conferences and meetings.
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == 'Contributed Talk' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Panels</h2>
+Below is a list of panels I have participated in at relevant conferences and meetings.
+
+{% for post in site.talks reversed %}
+  {% if post.type == 'Panel' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
