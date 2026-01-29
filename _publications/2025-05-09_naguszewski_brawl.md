@@ -1,12 +1,14 @@
 ---
-list_title: "[1] BraWl: Simulating the thermodynamics and phase stability of multicomponent alloys using conventional and enhanced sampling techniques"
+list_title: "[2] BraWl: Simulating the thermodynamics and phase stability of multicomponent alloys using conventional and enhanced sampling techniques"
 title: "BraWl: Simulating the thermodynamics and phase stability of multicomponent alloys using conventional and enhanced sampling techniques"
-published: preprint
+published: journal
 authors: '<u>H. J. Naguszewski</u>, L. B. Partay, D. Quigley, C. D. Woodgate'
 date: 2025-05-09
 collection: publications
 arXiv: "arXiv:2505.05393"
 arXivurl: "https://doi.org/10.48550/arXiv.2505.05393"
+venue: "Journal of Open Source Software, <b>10</b>, 8346 (2025)"
+paperurl: "https://doi.org/10.21105/joss.08346"
 ---
 
 <h3>Abstract</h3>
