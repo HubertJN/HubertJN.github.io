@@ -13,7 +13,7 @@ Professional / Research software
 -----
 
 ### Codes developed
-* **[committor-predictor](https://github.com/HubertJN/committor-predictor)** (LGPL; work in progress)  
+* **[committor-predictor](https://github.com/HubertJN/committor-predictor)** (work in progress)  
   A package for committor prediction for the 2D Ising model, including:
   * Data curation to achieve a more uniform distribution in committor values for training
   * A custom residual convolutional neural network for classification
@@ -21,7 +21,7 @@ Professional / Research software
   * Automated training/validation workflows suitable for HPC batch execution
 
 ### Code contributions
-* **[BraWl](https://github.com/ChrisWoodgate/BraWl)** (LGPL)  
+* **[BraWl](https://github.com/ChrisWoodgate/BraWl)**
   A lattice-based atomistic simulation package for alloy thermodynamics with a Bragg–Williams Hamiltonian and conventional/enhanced sampling methods. My contributions include:
   * Implementation and optimisation of a highly parallelised Wang–Landau sampling workflow
   * Parallel performance profiling and scaling benchmarks (strong scaling tested to 96 CPU cores)
