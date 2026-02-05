@@ -37,7 +37,8 @@ Professional / Research software
 Hobby software
 -----
 
-* **[S.T.A.L.K.E.R. GAMMA Modpack](https://github.com/Grokitach/Stalker_GAMMA)** - Contributor (Nov 2024 - Feb 2025)  
+### Code contributions
+* **[S.T.A.L.K.E.R. GAMMA Modpack](https://github.com/Grokitach/Stalker_GAMMA)**
   Fan-made modpack for the *S.T.A.L.K.E.R.* series (GSC Game World).
   * Delivered Lua scripting fixes and gameplay tweaks
   * Triaged issues and maintained the backlog; prioritised and resolved community-reported bugs
