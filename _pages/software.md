@@ -37,8 +37,9 @@ Professional / Research software
 Hobby software
 -----
 
-* **S.T.A.L.K.E.R. GAMMA Modpack** (Contributor), Nov 2024 – Feb 2025
-  A fan made modification package for the S.T.A.L.K.E.R series of games by GSC Game World. My contributions include:
+* **S.T.A.L.K.E.R. GAMMA Modpack** - Contributor (Nov 2024 - Feb 2025)  
+  Fan-made modpack for the *S.T.A.L.K.E.R.* series (GSC Game World).
   * Delivered Lua scripting fixes and gameplay tweaks
-  * Contributed to issue triage and backlog management; prioritised and resolved community-reported bugs
-  * Coordinated with testers to validate patches across builds and reduce regressions through release
+  * Triaged issues and maintained the backlog; prioritised and resolved community-reported bugs
+  * Coordinated with testers to validate patches across builds and reduce regressions
+
