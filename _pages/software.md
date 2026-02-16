@@ -21,7 +21,7 @@ Professional / Research software
   * Automated training/validation workflows for Linux HPC clusters (Slurm), suitable for batch execution
 
 * **[lammps-benchmark](https://github.com/HubertJN/lammps-benchmark)** (work in progress)  
-  This started as a way to speed up a collaborator’s LAMMPS run and grew into a small performance engineering toolkit. My goal is to make benchmarking, parameter tuning, and scaling analysis fast, repeatable, and easy to compare across runs.
+  This started as a way to speed up a collaborator's LAMMPS run and grew into a small performance engineering toolkit. My goal is to make benchmarking, parameter tuning, and scaling analysis fast, repeatable, and easy to compare across runs.
   * Slurm-driven automation for a manual baseline run plus repeatable benchmarking workflows
   * Parameter sweeps over key simulation controls (`ks`, `kacc`, `dcut`) to optimize time-to-solution
   * Core scaling analysis via generated `job.slurm` scripts
@@ -47,7 +47,7 @@ Hobby software
 
 ### Code contributions
 * **[S.T.A.L.K.E.R. GAMMA Modpack](https://github.com/Grokitach/Stalker_GAMMA)**  
-  I contributed here because I enjoyed the modpack and wanted to give back to the community. It involved working in a collobratibe environment with fast-feedback development in a small but dedicated community team. It’s a good outlet for shipping small fixes quickly, doing practical debugging, and improving quality for players.
+  I contributed here because I enjoyed the modpack and wanted to give back to the community. It involved working in a collobratibe environment with fast-feedback development in a small but dedicated community team. It's a good outlet for shipping small fixes quickly, doing practical debugging, and improving quality for players.
   * Delivered Lua scripting fixes and gameplay tweaks with regression-aware iteration
   * Issue triage and backlog maintenance; prioritized and resolved community-reported bugs
   * Coordinated with testers to validate patches across builds and improve release quality
