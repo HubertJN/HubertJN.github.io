@@ -16,7 +16,7 @@ My current research has two avenues:
    I develop scalable and parallelisable variants of the Wang-Landau algorithm for calculating densities of states in alloy systems. This includes analysing the efficiency of different parallelisation strategies, improving load balancing across energy windows, and applying flat-histogram sampling to high-entropy alloy thermodynamics.
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/alloy.png" alt="Illustration of a low-temperature ordered high-entropy alloy (left), and of specific heat as wellas atomic short range order parameters for a high-entropy alloy (right).">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/alloys.png" alt="Illustration of a low-temperature ordered high-entropy alloy (left), and of specific heat as wellas atomic short range order parameters for a high-entropy alloy (right).">
   <figcaption>Illustration of a low-temperature ordered high-entropy alloy (left), and of specific heat as wellas atomic short range order parameters for a high-entropy alloy (right).</figcaption>
 </figure> 
 
