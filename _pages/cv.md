@@ -18,7 +18,7 @@ This page represents a web version of my comprehensive CV. I aim to keep it reas
   * Fully-funded studentship within the UK Engineering and Physical Sciences Research Council (EPSRC) <a href="https://warwick.ac.uk/hetsys/">Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)</a>
 
 * **PGDip**, Modelling of Heterogeneous Systems, University of Warwick, UK (2022 – 2024)  
-  * Award: Passed with distinction (highest possible grade). 
+  * Award: Passed with merit. 
   * Taught component of training offered in the first 18 months of the Modelling of Heterogeneous Systems Centre for Doctoral Training included:
     * Scientific software development, predictive modelling, uncertainty quantification, machine learning, fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
 
