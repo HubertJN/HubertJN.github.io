@@ -20,7 +20,7 @@ Professional / Research software
   * Automated training, validation, and MSM workflows on Slurm-based HPC clusters
   * Analysed learned models to identify physically meaningful structure in the predictions
 
-* **[lammps-benchmark](https://github.com/HubertJN/lammps-benchmark)** (work in progress)  
+* **[lammps-benchmark](https://github.com/HubertJN/lammps-benchmark)**  
   I developed an automated parameter-optimisation suite in LAMMPS for a collaborator.
   * Fully automated Python command-line interface integrated with Slurm
   * Parameter sweeps and strong-scaling benchmarks up to 128 cores
