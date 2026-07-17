@@ -7,6 +7,7 @@ date: 2026-01-23
 collection: publications
 arXiv: "arXiv:2601.16528"
 arXivurl: "https://arxiv.org/abs/2601.16528"
+venue: Submitted to the Journal of Materials Research in January 2026
 ---
 
 <h3>Abstract</h3>
