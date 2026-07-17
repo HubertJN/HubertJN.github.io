@@ -50,6 +50,9 @@
           <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{ post.arXiv }}</a> 
         {% elsif post.collection == 'publications' %}
           <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{ post.arXiv }}</a> 
+          {% if post.venue %}
+            <br>{{ post.venue }}
+          {% endif %}
         {% endif %}
 
   </article>

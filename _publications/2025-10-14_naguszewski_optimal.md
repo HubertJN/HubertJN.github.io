@@ -1,12 +1,14 @@
 ---
-list_title: "[1] Optimal parallelisation strategies for flat histogram Monte Carlo sampling"
+list_title: "[3] Optimal parallelisation strategies for flat histogram Monte Carlo sampling"
 title: "Optimal parallelisation strategies for flat histogram Monte Carlo sampling"
-published: preprint
+published: journal
 authors: '<u>H. J. Naguszewski</u>, C. D. Woodgate, D. Quigley'
-date: 2025-10-14
+date: 2026-07-17
 collection: publications
 arXiv: "arXiv:2510.11562"
 arXivurl: "https://arxiv.org/abs/2510.11562"
+venue: "Computer Physics Communications, <b>324</b>, 110125"
+paperurl: "https://doi.org/10.1016/j.cpc.2026.110125"
 ---
 
 <h3>Abstract</h3>

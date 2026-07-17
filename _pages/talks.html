@@ -25,3 +25,12 @@ Below is a list of panels I have participated in at relevant conferences and mee
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
+
+<h2>Chairing Duties</h2>
+Below is a list of chairing duties at conferences and research events.
+
+{% for post in site.talks reversed %}
+  {% if post.type == 'Chairing Duty' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}

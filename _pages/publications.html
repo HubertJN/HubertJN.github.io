@@ -5,9 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here you can find a list of my academic publications and preprints.  {% if site.author.googlescholar %} You can also find a list of my publications on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>. {% endif %}.
+Here you can find a list of my academic publications and preprints. {% if site.author.googlescholar %}You can also find a list of my publications on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>.{% endif %}
 
 {% include base_path %}
+
+<h2> In Preparation </h2>
+Below is a list of manuscripts currently in preparation.
+
+{% for post in site.publications reversed %}
+  {% if post.published == 'preparation' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 <h2> Preprints </h2>
 Below is a list of my current preprints available on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a>.
