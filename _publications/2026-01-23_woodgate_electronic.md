@@ -1,5 +1,5 @@
 ---
-list_title: "[2] Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study"
+list_title: "[1] Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study"
 title: "Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study"
 published: preprint
 authors: 'C. D. Woodgate, <u>H. J. Naguszewski</u>, N. F. Piwek, D. Redka'
